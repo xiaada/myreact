@@ -1,0 +1,38 @@
+.app-font {
+  color: green;
+}
+.my-list {
+  width: 100%;
+  li {
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    list-style: none;
+    h2 {
+      display: inline-block;
+    }
+    button {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      line-height: 10px;
+      position: relative;
+      top:10px;
+    }
+  }
+}
+.my-lable {
+  margin-left: 39px;
+  font-size: 20px;
+}
+.my-control {
+  width: 80%;
+  margin: -32px 0 0 10%;
+  margin-left: 10%;
+  margin-top: -32px;
+}
+.my-button {
+  float: right;
+  margin-top: -32px;
+  background-color: green;
+}
